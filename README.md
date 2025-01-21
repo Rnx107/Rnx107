@@ -21,3 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rnx107&show_icons=true&locale=en" alt="rnx107" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rnx107&" alt="rnx107" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnx107&layout=compact" alt="most used languages" /></p>
+
