@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Pytorch, Tensorflow, Seaborn**
 
-- 📫 How to reach me **neupaneraman189@gmail.com**
+- 📫 How to reach me **admin@ramanneupane.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
