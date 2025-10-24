@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning **Pytorch, Tensorflow, Seaborn**
 
 - 📫 How to reach me **admin@ramanneupane.com.np**
-- My Site: **ramanneupane.com.np**
+  
+- **My Site:** [ramanneupane.com.np](https://ramanneupane.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
